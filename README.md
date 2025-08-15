@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**yaseen002/yaseen002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yaseen Khan
+Python Developer with 4+ years of experience in web apps, automation, and AI solutions.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specializing in web development, automation, data processing, and AI integrations with Python.
+Currently learning advanced AI and cloud deployments.
+Focused on efficient, secure, scalable code.
+
+
+Tech Stack
+      
+
+GitHub Stats
+
+
+Connect
