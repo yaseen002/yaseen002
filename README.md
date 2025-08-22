@@ -1,6 +1,6 @@
 # Yaseen Khan
 
-Python Developer with 4 years of experience in web apps, automation, and AI solutions.
+Python Developer with extinsive experience in web apps, automation, and AI solutions.
 
 ---
 
