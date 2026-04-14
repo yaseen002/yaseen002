@@ -59,8 +59,8 @@ An automated content pipeline integrating the News API, Twitter API, and Stabili
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaseen002&show_icons=true&theme=radical" alt="Yaseen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen002&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://shion.dev" alt="Yaseen's GitHub Stats" />
+  <img src="https://shion.dev" alt="Top Languages" />
 </div>
 
 <p align="center">
